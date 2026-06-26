@@ -1,0 +1,17 @@
+{
+  "name": "taha-md-bot",
+  "version": "1.0.0",
+  "description": "Advanced WhatsApp MD Bot for Render",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "@hapi/boom": "^10.0.1",
+    "pino": "^8.14.1",
+    "dotenv": "^16.4.5",
+    "axios": "^1.7.2",
+    "fluent-ffmpeg": "^2.1.3"
+  }
+}
